@@ -1,0 +1,11 @@
+
+D:\Zartab\Trainings\2022\B-13 JP Morgan Automation with Python May 2022\Python>cd 3-exceptions
+
+D:\Zartab\Trainings\2022\B-13 JP Morgan Automation with Python May 2022\Python\3-exceptions>python 3-handling-multiple-exceptions.py
+Enter Age:12
+Age is 12 and XFactor is 0.8333333333333334    
+Some exception occurred
+Reason: list index out of range
+Execution continues.......
+
+D:\Zartab\Trainings\2022\B-13 JP Morgan Automation with Python May 2022\Python\3-exception
