@@ -1,0 +1,5 @@
+2022-06-03 15:29:01,308 - root - DEBUG - Debug Message Here
+2022-06-03 15:29:01,309 - root - INFO - Info Message Here
+2022-06-03 15:29:01,309 - root - WARNING - Warning Message Here
+2022-06-03 15:29:01,310 - root - ERROR - Error  Message Here
+2022-06-03 15:29:01,310 - root - CRITICAL - Critical  Message Here

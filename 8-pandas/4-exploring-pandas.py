@@ -30,7 +30,7 @@ print(30*'-')
 print(df.loc[1])
 print(df.loc[0:4, ['Name', 'Age', 'Gender']])
 
-print(30*'-')
+print(30*'-'
 print(df['DOB'])
 print(30*'-')
 df['DOB'] = pd.to_datetime(
